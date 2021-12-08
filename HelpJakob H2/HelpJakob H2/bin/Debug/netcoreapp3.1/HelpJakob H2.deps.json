@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelpJakob H2/1.0.0": {
+        "runtime": {
+          "HelpJakob H2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelpJakob H2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
